@@ -19,13 +19,13 @@ Detects objects in real-time using webcam feed and announces them through text-t
 ## Setup
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-username/object-detection-tts.git
-   cd object-detection-tts ```
+   git clone https://github.com/tejaschaudhari454/object-detection-cnn.git
+   cd object-detection-cnn
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt ```
+   pip install -r requirements.txt
 
 3. Download YOLOv3 weights:
    ```bash
-   wget https://pjreddie.com/media/files/yolov3.weights ```
+   wget https://pjreddie.com/media/files/yolov3.weights
